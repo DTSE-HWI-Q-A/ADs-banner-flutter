@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"890507000000000357",
+		"product_id":"736430079244791513",
+		"client_id":"545394809515291264",
+		"client_secret":"668CFA626BC1A56AB12A74ADB0746F15684620E0F49CC956A7ED0FFA051B5F0E",
+		"project_id":"736430079244791513",
+		"app_id":"103732881",
+		"api_key":"CgB6e3x9E4DcQaklEQiD6RtIEdDd05tRyge9ukhbzHaPNio76PrV9f6rMqgdB/TLlqhPk8OaA5JxUlAY6mZgVVNI",
+		"package_name":"com.huawei.flutter.ads.banner.ads_banner"
+	},
+	"configuration_version":"1.0"
+}
